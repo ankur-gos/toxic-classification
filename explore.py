@@ -1,6 +1,6 @@
 '''
-main.py
-Entry point
+explore.py
+Exploration goes here
 Ankur Goswami, agoswam3@ucsc.edu
 '''
 
